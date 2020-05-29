@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Wasalni",
+      title: "Wasalni v1",
       //theme: ThemeData.light(),
       debugShowCheckedModeBanner: false,
       home: SignUpPage(),
